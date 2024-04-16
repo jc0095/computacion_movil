@@ -29,7 +29,7 @@ class ContainerDos extends StatelessWidget {
           GestureDetector(
             onTap: () {
               // ignore: deprecated_member_use
-              launch('https://mail.google.com/'); // Reemplaza con la URL 
+              launch('https://mail.google.com/'); // redirecion icono de mail a correo 
             },
             child:const Icon(
               Icons.mail,
